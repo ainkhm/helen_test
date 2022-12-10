@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "scripts": {
     "android": "react-native run-android",
-    "ios": "react-native run-ios",
+    "ios": "react-native run-ios --simulator='iPhone 14'",
     "prod-ios": "react-native run-ios --configuration Release",
     "web": "expo start --web",
     "start": "react-native start",
