@@ -73,7 +73,7 @@ export default function UserDetailsScreen({
 const styles = StyleSheet.create({
   father: {
     flex: 1,
-    backgroundColor: "purple",
+    backgroundColor: "#00ba40",
   },
   circle: {
     backgroundColor: "yellow",

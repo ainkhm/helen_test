@@ -94,7 +94,7 @@ export default function HomeScreen({ navigation }: RootTabScreenProps<"Home">) {
         <TouchableOpacity
           onPress={displayAddUserModal}
           style={{
-            backgroundColor: "purple",
+            backgroundColor: "#00ba40",
             position: "absolute",
             width: 200,
             height: 50,

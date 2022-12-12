@@ -186,7 +186,7 @@ const AddUserModal: React.FC<AddUserModalProps> = ({
             <TouchableOpacity
               onPress={addUserToState}
               style={{
-                backgroundColor: "purple",
+                backgroundColor: "#00ba40",
                 width: 150,
                 height: 50,
                 borderRadius: 20,

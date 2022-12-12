@@ -65,12 +65,12 @@ function RootNavigator() {
         component={HomeScreen}
         options={{
           headerShown: true,
-          headerTitle: "HELEN",
+          headerTitle: "HELEN APP",
           headerLeft: () => null,
           gestureEnabled: false,
           headerBackVisible: false,
           headerTitleStyle: { color: "white" },
-          headerStyle: { backgroundColor: "purple" },
+          headerStyle: { backgroundColor: "#00ba40" },
         }}
       />
 
@@ -87,7 +87,7 @@ function RootNavigator() {
       <Stack.Screen
         name="Root"
         component={BottomTabNavigator}
-        options={{ title: "HELEN" }}
+        options={{ title: "HELEN APP" }}
       />
     </Stack.Navigator>
   );
