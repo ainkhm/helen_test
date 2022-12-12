@@ -54,7 +54,7 @@ export default function HomeScreen({ navigation }: RootTabScreenProps<"Home">) {
           onPress={() => removeUser(item.username)}
           name="close"
           size={30}
-          style={{ top: "2%", alignSelf: "flex-end", paddingRight: 20 }}
+          style={{ top: "2%", alignSelf: "flex-end", paddingRight: 5 }}
         />
         <Pressable onPress={() => viewUser(item)} style={styles.products}>
           <Image
