@@ -2,7 +2,7 @@
 
 This is a React Native application with Expo support, built to run on both Android and iOS devices. It includes navigation using React Navigation, Redux Toolkit for state management
 
-![alt text](https://github.com/ainkhm/helen_test/blob/main/cover.png?raw=true)
+![alt text](https://github.com/ainkhm/helen_test/blob/main/.github/cover.png?raw=true)
 
 ## Features
  - React Native for building cross-platform mobile apps
