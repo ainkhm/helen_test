@@ -14,6 +14,7 @@ This is a React Native application with Expo support, built to run on both Andro
 To get started with the project, follow these steps:
 
 **Prerequisites**
+
 Make sure you have the following installed:
  - Node.js
  - Expo CLI
