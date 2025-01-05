@@ -1,13 +1,27 @@
 # Helen test task
-## React native Dummydata app
 
-[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
+This is a React Native application with Expo support, built to run on both Android and iOS devices. It includes navigation using React Navigation, Redux Toolkit for state management
 
-Install the dependencies and devDependencies and start the app.
-Make sure you're using node 14.18.2 
+![alt text](https://github.com/ainkhm/helen_test/blob/main/cover.png?raw=true)
 
-![alt text](https://github.com/ainkhm/helen_test/blob/develop/app-image.png?raw=true)
+## Features
+ - React Native for building cross-platform mobile apps
+ - Expo for an optimized development environment
+ - React Navigation for managing app navigation
+ - Redux Toolkit for state management
 
+## 🚀 Quick Start
+To get started with the project, follow these steps:
+
+**Prerequisites**
+Make sure you have the following installed:
+ - Node.js
+ - Expo CLI
+ - React Native CLI
+ - Xcode (for iOS)
+ - Android Studio (for Android)
+
+### Available Scripts
 ```sh
 yarn install
 cd ios && pod install
